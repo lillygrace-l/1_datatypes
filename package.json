@@ -1,0 +1,12 @@
+{
+  "name": "24b01a4266_typescript",
+  "version": "1.0.0",
+  "description": "demonstrate type script fundamentals",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
